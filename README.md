@@ -1,5 +1,5 @@
 # Regression and Multivariate Data Analysis | Spring 2023
-This is the repository for regression reports done in STAT-GB 2301/STAT-UB 17 course at NYU Stern during Spring 2023. There are five reports throughout the semester and the statistical software is Minitab. The datasets, reports, and minitab commands can be found in the report#1 to report#5 directories. Please feel free to email me at rd2910@nyu.edu for any more information.
+This is the repository for regression reports done in STAT-GB 2301/STAT-UB 17 course at NYU Stern during Spring 2023. There are five reports throughout the semester and the statistical software is Minitab. The datasets, reports, and Minitab commands can be found in the report#1 to report#5 directories. Please feel free to email me at rd2910@nyu.edu for any more information.
 
 ### Report#1: Simple Linear Regression - Relationship Between Health Expenditure and GDP Per Capita
 Health expenditure (% of GDP) = 5.685 + 0.0597 * GDP per capita (in thousands)
